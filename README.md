@@ -15,7 +15,7 @@ accuracy, speed, and cost.
 
 ## Dataset
 1. The full Yelp polarity files (train.csv, test.csv) are too large for GitHub.
-   Download them from [your real link] and place them in the project folder.
+   Download them from (https://github.com/DrJZhou/Datasets-for-Sentiment-Analysis) and place them in the project folder.
 2. The fixed 300-review test set (test_300.csv) and my 30 hard cases
    (hard_cases.csv) are included.
 3. Day 1 needs both files, Day 3 needs train.csv, and Days 2 and 4 run with
