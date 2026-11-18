@@ -1,2 +1,0 @@
-Model,Accuracy,Macro-F1,Hard cases acc.,Sec per 1k preds,Cost per 1k preds
-LLM zero-shot,0.957,0.974,0.867,1033.2,0.0282
